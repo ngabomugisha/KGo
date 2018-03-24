@@ -1,6 +1,6 @@
 # **KGo**
 
-Public transport location-aware application for Kigalians! An android application to locate public transport buses for Kigali citizens. It uses WhereIsMyTransport API and Facebook Places Graph API.
+Public transport location-aware application for Kigalians! An android application to locate public transport buses and guide you where you want to reach for Kigali citizens. It uses WhereIsMyTransport API and Facebook Places Graph API.
 
  
 
